@@ -3,7 +3,7 @@
 
 # 經歷
 * 2023~2025  碩士論文研究
-  —論文研究題目“ 開發即時遠端遙控機械手臂之六自由度操縱裝置 ”<img width="790" height="52" alt="image" src="https://github.com/user-attachments/assets/fb1b5bf6-4cf3-4d75-a446-2f37a036e6a7" />
+  —論文研究題目“ 開發即時遠端遙控機械手臂之六自由度操縱裝置 ”
 
 
 
