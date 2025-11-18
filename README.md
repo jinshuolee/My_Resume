@@ -28,3 +28,8 @@
 ![image alt](https://github.com/jinshuolee/CCU-dog/blob/main/532825.jpg?raw=true)
 影片連結
 https://www.youtube.com/watch?v=DFCvpVmPlCk
+
+## 透過類比電路製作攜帶式雙聲道喇叭
+![image alt](https://github.com/jinshuolee/Speaker-design/blob/main/Speaker.jpg?raw=true)
+
+
